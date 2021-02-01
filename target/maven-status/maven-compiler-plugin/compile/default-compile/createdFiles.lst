@@ -1,0 +1,12 @@
+com\mycompany\retrowavevideo\helper\Helper.class
+com\mycompany\retrowavevideo\entities\Category.class
+com\mycompany\retrowavevideo\entities\Movie.class
+com\mycompany\retrowavevideo\dao\UserDao.class
+com\mycompany\retrowavevideo\dao\MovieDao.class
+com\mycompany\retrowavevideo\entities\User.class
+com\mycompany\retrowavevideo\helper\FactoryProvider.class
+com\mycompany\retrowavevideo\servelets\ProductOperationServlet.class
+com\mycompany\retrowavevideo\servelets\RegisterServlet.class
+com\mycompany\retrowavevideo\dao\CategoryDao.class
+com\mycompany\retrowavevideo\servelets\LoginServlet.class
+com\mycompany\retrowavevideo\servelets\LogoutServlet.class
